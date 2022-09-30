@@ -1,0 +1,24 @@
+body{
+    margin: 20px;
+}
+#mainlist{
+   text-Align:center;
+   font-Size:xx-large;
+   background-color: rgb(189, 255, 233);
+}
+#portal{
+    text-align: center;
+    background-color: rgb(189, 255, 233);
+    padding: 20px;
+    
+}
+#portall{
+    margin-Left:500px;
+    margin-Right:500px;
+    margin-Top:70px;
+    font-Size:25px;
+    border: 3px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(189, 255, 233);
+}
